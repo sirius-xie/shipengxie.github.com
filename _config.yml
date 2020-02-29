@@ -6,7 +6,7 @@ defaults:
     values:
       layout: default
 
-title: Christian Ezeani
+title: Shipeng Xie 
 subtitle: Full-Stack Developer
 
 # Side Menu Links
@@ -38,7 +38,7 @@ social_icons:
     icon: fab fa-github-square
 
   - name: facebook
-    link: https://www.facebook.com/christian.ezeani.cyb
+    link: https://www.facebook.com/shipeng.xie.cyb
     icon: fab fa-facebook-square
 
   - name: twitter
