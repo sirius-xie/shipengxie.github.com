@@ -7,16 +7,12 @@ defaults:
       layout: default
 
 title: Shipeng Xie 
-subtitle: Full-Stack Developer
+subtitle: AI+XR Researcher
 
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: My Profile
     link: /
-    icon: ""
-
-  - text: Skills & Offers
-    link: /skills-and-offers
     icon: ""
 
   - text: Contact Me
@@ -30,11 +26,11 @@ menu:
 # Socialmedia Icons
 social_icons:
   - name: linkedin
-    link: https://www.linkedin.com/christianezeani
+    link: https://www.linkedin.com/in/shipeng-xie-13262a187/
     icon: fab fa-linkedin
 
   - name: github
-    link: https://github.com/christianezeani
+    link: https://github.com/sirius-xie/
     icon: fab fa-github-square
 
   - name: facebook
@@ -42,7 +38,7 @@ social_icons:
     icon: fab fa-facebook-square
 
   - name: twitter
-    link: https://www.twitter.com/christianezeani
+    link: https://www.twitter.com/shipeng.xie
     icon: fab fa-twitter
 
 
